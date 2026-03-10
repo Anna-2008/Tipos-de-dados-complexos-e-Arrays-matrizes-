@@ -1,0 +1,11 @@
+let times = ["Flamengo", "Palmeiras", "São Paulo"];
+times.push("Corinthians");
+console.log(times);
+times.unshift("Grêmio");
+console.log(times);
+times.pop();
+console.log(times);
+console.log(times.indexOf("Palmeiras"));
+times.reverse();
+console.log(times);
+
