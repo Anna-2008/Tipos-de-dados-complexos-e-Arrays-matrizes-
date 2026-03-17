@@ -1,2 +1,2 @@
-let frutas = ["Morango", "Abacaxi", "Cereja", "Maçã"];
+let frutas = ["Morango", "Abacaxi", "Cereja"];
 console.log(frutas.length);
